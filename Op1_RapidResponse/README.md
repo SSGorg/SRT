@@ -10,7 +10,7 @@ If you would like to join the Security Research Team | SSG we implore you to joi
 Hang around and talk to us. If we feel you are a good fit we will vote to add you at which point  
 it becomes majority rule.  
 
-### OP :  
+### OP Checklist:  
 - Enumerate the various ways these attacks work
 - Proof of concept attack emulation
 - Figure out ways to prevent them
