@@ -6,11 +6,11 @@ avatar_id \
 mfa_enabled \
 has_nitro \
 flags \
-locale (language) \
+locale (language) 
 
 *Malicious:*
 
-phone_number /
+phone_number \
 email \
 verified \
 Name \
