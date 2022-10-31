@@ -10,7 +10,7 @@ flags
 *Malicious:*
 
 phone_number /
-email 
+email \
 locale \
 verified \
 Name \
