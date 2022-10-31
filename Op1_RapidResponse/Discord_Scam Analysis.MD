@@ -2,11 +2,11 @@ The details gathered by the QR Scam:
 
 *Non Malicious:*
 
-avatar_id 
-mfa_enabled
-has_nitro
-flags
-locale (language)
+avatar_id \
+mfa_enabled \
+has_nitro \
+flags \
+locale (language) \
 
 *Malicious:*
 
