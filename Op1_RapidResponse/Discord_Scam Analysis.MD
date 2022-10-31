@@ -1,4 +1,5 @@
 The details gathered by the QR Scam:
+
 *Non Malicious:*
 
 avatar_id 
@@ -6,7 +7,8 @@ mfa_enabled
 has_nitro
 flags
 
-*Malicious*
+*Malicious:*
+
 phone_number /
 email 
 locale \
