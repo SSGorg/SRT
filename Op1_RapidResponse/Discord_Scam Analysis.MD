@@ -1,11 +1,8 @@
 The details gathered by the QR Scam:
 
 avatar_id 
-
 phone_number 
-
 email 
-
 mfa_enabled \
 flags \
 locale \
