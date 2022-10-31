@@ -1,13 +1,16 @@
 The details gathered by the QR Scam:
+*Non Malicious:*
 
-avatar_id /
+avatar_id 
+mfa_enabled
+has_nitro
+flags
+
+*Malicious*
 phone_number /
-email /
-mfa_enabled \
-flags \
+email 
 locale \
 verified \
-has_nitro \
 Name \
 Address \
 Part of credit card info 
